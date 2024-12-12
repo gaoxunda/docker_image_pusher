@@ -1,2 +1,6 @@
---platform=linux/amd64 gitea/gitea:1.21.4
---platform=linux/amd64 gitea/gitea:1.21.11
+--platform=linux/amd64 ubuntu:14.04
+--platform=linux/amd64 ubuntu:16.04
+--platform=linux/amd64 ubuntu:18.04
+--platform=linux/amd64 ubuntu:20.04
+--platform=linux/amd64 ubuntu:22.04
+--platform=linux/amd64 ubuntu:24.04
