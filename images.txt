@@ -1,3 +1,2 @@
-gitea/tea:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/amd64 gitea/act_runner:0.2.11
+--platform=linux/arm64 gitea/act_runner:0.2.11
