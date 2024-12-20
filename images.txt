@@ -1,6 +1,2 @@
---platform=linux/amd64 ubuntu:14.04
---platform=linux/amd64 ubuntu:16.04
---platform=linux/amd64 ubuntu:18.04
---platform=linux/amd64 ubuntu:20.04
---platform=linux/amd64 ubuntu:22.04
---platform=linux/amd64 ubuntu:24.04
+--platform=linux/amd64 asdlokj1qpi23/subconverter:0.9.7
+--platform=linux/arm64 asdlokj1qpi23/subconverter:0.9.7
