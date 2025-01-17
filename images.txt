@@ -1,2 +1,2 @@
---platform=linux/amd64 asdlokj1qpi23/subconverter:0.9.7
---platform=linux/arm64 asdlokj1qpi23/subconverter:0.9.7
+--platform=linux/amd64 immortalwrt/imagebuilder:sunxi-cortexa53-openwrt-23.05.4
+--platform=linux/amd64 immortalwrt/imagebuilder:sunxi-cortexa53-openwrt-24.10.0-rc3
