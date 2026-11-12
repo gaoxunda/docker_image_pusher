@@ -1,1 +1,2 @@
---platform=linux/amd64 0penclaw/openclaw:20260302
+--platform=linux/amd64 gitea/gitea:28.3
+--platform=linux/amd64 gitea/runner:5.4.1
